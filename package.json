@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "python -m http.server 4173",
-    "start": "python -m http.server 4173"
+    "build": "echo Static site - no build required"
   }
 }
